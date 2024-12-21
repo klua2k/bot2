@@ -1,0 +1,1 @@
+restricted_words = {"dsada", "das", "asdas"}
